@@ -67,5 +67,4 @@ project-folder/
 
 ---
 
-Let me know if you want a Markdown-ready copy of this or a live preview!
 
