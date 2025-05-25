@@ -38,12 +38,6 @@ project-folder/
 
 ### 🖼️ Design Notes
 
-* **Custom Favicons**:
-
-  * `jake32.png` (32x32)
-  * `jake16.png` (16x16)
-* **Hover effect**:
-
   * Social icons change background on hover for interactivity.
 * **Colors**:
 
