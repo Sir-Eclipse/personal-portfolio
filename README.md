@@ -32,8 +32,8 @@ project-folder/
     └── about.html      # About me section
 └── favourites page/
     └── favourites.html # Favorites section
-└── research page/
-    └── research.html   # Research section
+└── goodbye page/
+    └── goodbye.html   # A sweet and simple goodbye note
 ```
 
 ### 🖼️ Design Notes
