@@ -1,4 +1,4 @@
-## 🌐 Personal Landing Page – `pratham.html`
+## 🌐 Personal Landing Page – `main.html`
 
 This is a minimalist personal landing page designed using HTML and CSS. It acts as a central hub to showcase your online presence and key personal links.
 
